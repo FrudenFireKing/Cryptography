@@ -12,3 +12,4 @@ F:\CryptC#\CryptoLab1\obj\Debug\net10.0\refint\CryptoLab1.dll
 F:\CryptC#\CryptoLab1\obj\Debug\net10.0\CryptoLab1.pdb
 F:\CryptC#\CryptoLab1\obj\Debug\net10.0\CryptoLab1.genruntimeconfig.cache
 F:\CryptC#\CryptoLab1\obj\Debug\net10.0\ref\CryptoLab1.dll
+F:\CryptC#\CryptoLab1\obj\Debug\net10.0\CryptoLab1.sourcelink.json
