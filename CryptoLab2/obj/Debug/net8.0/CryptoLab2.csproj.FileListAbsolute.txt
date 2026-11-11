@@ -1,0 +1,15 @@
+F:\CryptC#\CryptoLab2\bin\Debug\net8.0\CryptoLab2.exe
+F:\CryptC#\CryptoLab2\bin\Debug\net8.0\CryptoLab2.deps.json
+F:\CryptC#\CryptoLab2\bin\Debug\net8.0\CryptoLab2.runtimeconfig.json
+F:\CryptC#\CryptoLab2\bin\Debug\net8.0\CryptoLab2.dll
+F:\CryptC#\CryptoLab2\bin\Debug\net8.0\CryptoLab2.pdb
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.AssemblyInfoInputs.cache
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.AssemblyInfo.cs
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.csproj.CoreCompileInputs.cache
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.sourcelink.json
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.dll
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\refint\CryptoLab2.dll
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.pdb
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\CryptoLab2.genruntimeconfig.cache
+F:\CryptC#\CryptoLab2\obj\Debug\net8.0\ref\CryptoLab2.dll
